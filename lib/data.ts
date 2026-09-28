@@ -5,7 +5,7 @@ export const site={
   "name": "Gulberg Garden Kitchen",
   "short": "GG",
   "tag": "Fresh plates. Lahore energy.",
-  "email": "hello@gulberggarden.pk",
+  "email": "ahmedbilalakhan56@gulgarden.com",
   "phone": "+92 300 7654321",
   "location": "Gulberg III, Lahore",
   "map": "Gulberg III Lahore Pakistan",
