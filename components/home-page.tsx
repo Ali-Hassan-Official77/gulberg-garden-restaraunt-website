@@ -72,7 +72,7 @@ export function HomePage() {
   const phone = site?.phone || "";
 
   const email =
-    site?.email || "hello@example.com";
+    site?.email || "ahmedbilalakhan56@gulgarden.com";
 
   const siteName =
     site?.name || "The Royal Degh";
